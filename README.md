@@ -179,6 +179,9 @@ For simplicity, shortened names are used to represent the supported models and f
 * [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Awesome Gazebo](https://github.com/fkromer/awesome-gazebo)
 
+### added by Mark
+* [another rob list](https://github.com/mithi/robotics-coursework)
+
 ## [Contributing](#awesome-robotics-libraries)
 
 Contributions are very welcome! Please read the [contribution guidelines](https://github.com/jslee02/awesome-robotics-libraries/blob/master/CONTRIBUTING.md) first. Also, please feel free to report any error.
